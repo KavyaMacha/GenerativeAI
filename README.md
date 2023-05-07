@@ -1,0 +1,2 @@
+# GenerativeAI
+Generative AI refers to a class of artificial intelligence techniques that enable machines to create or generate new content, such as images, text, audio, or video, that resembles content created by humans. Generative AI algorithms learn to generate new content by analyzing large amounts of data and identifying patterns and structures within that data.so this particular project ,generates a image from a given prompt.
